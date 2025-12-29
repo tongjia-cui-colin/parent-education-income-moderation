@@ -30,5 +30,18 @@ Using a dataset of approximately 5,000 students taken from Kaggle, this project 
 ## Limitations
 This analysis relies on observational, self-reported socioeconomic data and a composite academic performance measure. The absence of institutional, behavioral, and instructional variables limits explanatory capacity. Findings should be interpreted as exploratory rather than predictive.
 
+## Collaboration Note
+
+This project was completed as a team effort. Within the collaboration, I was responsible for the core analytical and programming components of the project.
+
+My contributions include:
+- Implementing the full Python analysis pipeline
+- Designing and coding the regression and moderation models
+- Proposing and implementing dummy coding and categorical variable transformations
+  (e.g., construction of `Edu_Advanced` and `Income_Cat`)
+- Structuring the workflow to emphasize model validity, diagnostics, and interpretability
+
+Outlier handling and statistical significance testing were added subsequently by collaborators as extensions to the original pipeline. All remaining code reflects my direct technical contributions.
+
 ## Tools
 Python; pandas, numpy, statsmodels, scipy, matplotlib
