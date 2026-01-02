@@ -1,7 +1,5 @@
 # Parent Education and Income Moderation
-
-## Date
-December, 2025
+*Last updated: December 2025*
 
 ## Overview
 This project implements an end-to-end data science workflow to evaluate whether parental educational attainment holds explanatory power to student academic performance and whether family income moderates this relationship.
